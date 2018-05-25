@@ -15,7 +15,7 @@ export default {
     window: {
       backgroundTextStyle: 'light',
       navigationBarBackgroundColor: '#fff',
-      navigationBarTitleText: 'mpvue的示例',
+      navigationBarTitleText: 'mpvue的示例1',
       navigationBarTextStyle: 'black'
     }
   }

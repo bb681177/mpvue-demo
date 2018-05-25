@@ -6,6 +6,6 @@ app.$mount()
 
 export default {
   config: {
-    navigationBarTitleText: 'todolist 迁移'
+    navigationBarTitleText: 'todolist 迁移1'
   }
 }
